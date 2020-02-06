@@ -8,4 +8,4 @@ Hi, I am Makena Haroldon! I am currently a junior studying computer science. I a
 
 ## UX Journal
 
-[My first journal entry](journal_01/)
+[My first journal entry ](journal_01/)
