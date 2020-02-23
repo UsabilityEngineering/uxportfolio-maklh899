@@ -1,11 +1,9 @@
 
-# Paper Shredder Struggles
-## Makena Haroldson
-## "2/23/2020"
+# Paper Shredder Struggles | Makena Haroldson | 2/23/2020
 
 ### Images
 
-<img src="/assets/Shredder.jpg" alt="Top View" width="200"/>
+<img src="/assets/Shredder.png" alt="Top View" width="200"/>
 
 <img src="/assets/shredder2.jpg" alt="Full View" width="200"/>
 
