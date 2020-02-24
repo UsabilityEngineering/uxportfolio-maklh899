@@ -6,6 +6,6 @@ Hi, I am Makena Haroldon! I am currently a junior studying computer science. I a
 ## UX Team Project
 
 
-## UX Journal
+## UX Journals
 
-[My first journal entry](journal-01/)
+- [Journal 1](journal-01/)
