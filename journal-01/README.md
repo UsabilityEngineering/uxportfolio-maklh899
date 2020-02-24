@@ -17,4 +17,4 @@ After deciding to push the "I" button nothing happened. I went to push the other
 
 On the positive side, the shredder had proper **affordances** as it showed where on the machine a user can insert an item. Affordances are the fundamental properties that determine how something can be used. The shredder had two thin slots, one for bigger objects and another for smaller ones. If it had bigger slots, one could not easily tell the machine is mainly for paper, disc, credit cards, etc. - thin objects.
 
-[Return](/)
+[Return](../)
