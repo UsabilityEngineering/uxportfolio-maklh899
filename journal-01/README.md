@@ -5,9 +5,9 @@
 
 ### Images
 
-<img src="/assets/Shredder.png" alt="Top View" width="400"/>
+<img src="../assets/Shredder.png" alt="Top View" width="400"/>
 
-<img src="/assets/Shredder_zoom.jpg" alt="Up Cloose View" width="200"/>
+<img src="../assets/Shredder_zoom.jpg" alt="Up Cloose View" width="200"/>
 
 ### My Experience
 
