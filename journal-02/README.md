@@ -4,13 +4,13 @@
 
 ### Images
 
-(1) <img src="../assets/jfy.png" alt="Main View" width="200"/>
+(1) <img src="../assets/journal2/jfy.PNG" alt="Main View" width="200"/>
 
-(2) <img src="../assets/explore.png" alt="Explore View" width="200"/>
+(2) <img src="../assets/journal2/explore.PNG" alt="Explore View" width="200"/>
 
-(3) <img src="../assets/collections.png" alt="Collection View" width="200"/>
+(3) <img src="../assets/journal2/collections.PNG" alt="Collection View" width="200"/>
 
-(4) <img src="../assets/shopping_list.png" alt="Shopping List View" width="200"/>
+(4) <img src="../assets/journal2/shopping_list.PNG" alt="Shopping List View" width="200"/>
 
 ### My Experience
 
