@@ -4,7 +4,8 @@
 
 ### Images
 
-(1) <img src="../assets/journal2/jfy.PNG" alt="Main View" width="200"/>
+(1) 
+<img src="../assets/journal2/jfy.PNG" alt="Main View" width="200"/>
 
 (2) <img src="../assets/journal2/explore.PNG" alt="Explore View" width="200"/>
 
