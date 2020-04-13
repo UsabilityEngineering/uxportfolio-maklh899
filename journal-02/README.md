@@ -4,18 +4,18 @@
 
 ### Images
 
-<p align="middle">
-(1) 
-<img src="../assets/journal2/jfy.PNG" alt="Main View" width="200"/>
+<p float="left">
+    (1) 
+    <img src="../assets/journal2/jfy.PNG" alt="Main View" width="200"/>
 
-(2) 
-<img src="../assets/journal2/explore.PNG" alt="Explore View" width="200"/>
+    (2) 
+    <img src="../assets/journal2/explore.PNG" alt="Explore View" width="200"/>
 
-(3) 
-<img src="../assets/journal2/collections.PNG" alt="Collection View" width="200"/>
+    (3) 
+    <img src="../assets/journal2/collections.PNG" alt="Collection View" width="200"/>
 
-(4) 
-<img src="../assets/journal2/shopping_list.PNG" alt="Shopping List View" width="200"/>
+    (4) 
+    <img src="../assets/journal2/shopping_list.PNG" alt="Shopping List View" width="200"/>
 </p>
 
 ### My Experience
