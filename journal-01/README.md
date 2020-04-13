@@ -5,9 +5,11 @@
 
 ### Images
 
-<img src="../assets/Shredder.png" alt="Top View" width="400"/>
+<p float="left">
+    <img src="../assets/journal1/Shredder.png" alt="Top View" width="400"/>
 
-<img src="../assets/Shredder_zoom.jpg" alt="Up Cloose View" width="200"/>
+    <img src="../assets/journal1/Shredder_zoom.jpg" alt="Up Close View" width="200"/>
+</p>
 
 ### My Experience
 
