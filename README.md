@@ -10,3 +10,4 @@ Hi, I am Makena Haroldson! I am currently a junior studying computer science. I 
 
 - [Journal 1](journal-01/)
 - [Journal 2](journal-02/)
+- [Journal 3](journal-03/)
